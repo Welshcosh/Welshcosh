@@ -5,7 +5,7 @@
 
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Builder </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> about me : https://welshcosh.tistory.com/2</li></li> <br> </li></li>tech note : medium.com/@andrewshsong </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> about me : https://welshcosh.tistory.com/2</li></li> <br> </li></li>tech note : https://medium.com/@andrewshsong </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
